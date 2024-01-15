@@ -19,6 +19,8 @@
   "homepage": "https://github.com/rubicon2/webpack-setup-practice#readme",
   "devDependencies": {
     "css-loader": "^6.9.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
     "html-webpack-plugin": "^5.6.0",
     "prettier": "3.2.2",
     "style-loader": "^3.3.4",
