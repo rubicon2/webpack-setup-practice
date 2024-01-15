@@ -1,1 +1,0 @@
-A test bed for experimenting with the various ways of setting up webpack and associated plugins.
