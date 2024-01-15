@@ -1,9 +1,14 @@
-import "./styles.css";
+import './styles.css'
 
-alert("Hello webpack!");
+alert('Hello webpack!')
 
 function myThing(arg1, arg2) {
-  alert("WOWSER! THE TABS ARE NOW SPACES!");
+  alert('WOWSER! THE TABS ARE NOW SPACES!')
 }
 
-myThing("OneThing", "TwoThings");
+myThing('OneThing', 'TwoThings')
+
+const arr = ['my', 'mega', 'array']
+for (const item in arr) {
+  console.log(item)
+}
